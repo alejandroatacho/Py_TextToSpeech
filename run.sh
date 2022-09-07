@@ -1,6 +1,6 @@
 #!/bin/bash
 cd dist 
-cd main#
+cd main
 # ls
-chmod a+x main
+chmod a+x main.exe
 ./main.exe
